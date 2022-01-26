@@ -1,0 +1,23 @@
+{
+  "editor.fontFamily": "CaskaydiaCove Nerd Font Mono",
+  "editor.guides.bracketPairs": true,
+  "workbench.colorTheme": "GitHub Dark Default",
+  "vim.insertModeKeyBindings": [
+     {
+         "before": ["j", "k"],
+         "after": ["<Esc>"]
+     } 
+  ],
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "editor.inlineSuggest.enabled": true,
+  "editor.fontLigatures": true,
+  "github.copilot.enable": {
+      "*": true,
+      "yaml": true,
+      "plaintext": false,
+      "markdown": false
+  }
+}
+
+
